@@ -1,0 +1,7 @@
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+remote: warning: See http://git.io/iEPt8g for more information.
+remote: warning: File 07_rebers_dish.wav is 63.92 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File 10_pulsars.wav is 82.13 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File 12_lofreq_array.wav is 95.62 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File 15_lofreq_in_BC.wav is 50.80 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+
